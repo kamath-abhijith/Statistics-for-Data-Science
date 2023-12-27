@@ -1,9 +1,9 @@
-PWD /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides
+PWD /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides
 INPUT /usr/local/texlive/2021/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.tex
-OUTPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.log
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.tex
+OUTPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.log
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamer.cls
@@ -1025,7 +1025,7 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerinnerthemedefaul
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamericonbook.pdf
-OUTPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.pdf
+OUTPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.pdf
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamericonbook.pdf
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamericonbook.20.pdf
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamericonbook.20.pdf
@@ -1049,17 +1049,17 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerouterthemedefaul
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/preamble.sty
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/preamble.sty
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/preamble.sty
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/preamble.sty
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/preamble.sty
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/preamble.sty
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/preamble.sty
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/preamble.sty
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/preamble.sty
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/preamble.sty
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/preamble.sty
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/preamble.sty
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/preamble.sty
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/preamble.sty
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/preamble.sty
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/preamble.sty
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/preamble.sty
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/preamble.sty
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/preamble.sty
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/preamble.sty
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/preamble.sty
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/preamble.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/bbm-macros/bbm.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/bbm-macros/bbm.sty
@@ -1148,10 +1148,10 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.de
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.aux
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.aux
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.aux
-OUTPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.aux
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.aux
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.aux
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.aux
+OUTPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.aux
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -1208,17 +1208,17 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestri
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.out
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.out
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.out
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.out
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.out
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.out
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.out
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.out
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.out
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.out
-OUTPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.out
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.out
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.out
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.out
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.out
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.out
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.out
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.out
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.out
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.out
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.out
+OUTPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.out
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
@@ -1244,9 +1244,9 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-theorem
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.nav
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.nav
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.nav
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.nav
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.nav
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.nav
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1268,10 +1268,10 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/1-tutorial.tex
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/1-tutorial.tex
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/1-tutorial.tex
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/1-tutorial.tex
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/2-tutorial.tex
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/2-tutorial.tex
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/2-tutorial.tex
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/2-tutorial.tex
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
@@ -1280,31 +1280,31 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmssi10.tfm
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/../data/image-1.jpg
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/../data/image-1.jpg
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/../data/image-1.jpg
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/../data/image-1.jpg
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/../data/image-1.jpg
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/../data/image-1.jpg
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/../data/image-1.jpg
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/../data/image-1.jpg
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/../data/image-1.jpg
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/../data/image-1.jpg
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/../data/image-2.jpg
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/../data/image-2.jpg
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/../data/image-2.jpg
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/../data/image-2.jpg
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/../data/image-2.jpg
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/../data/image-2.jpg
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/../data/image-2.jpg
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/../data/image-2.jpg
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/../data/image-2.jpg
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/../data/image-2.jpg
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmss17.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmssi17.tfm
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/./figures/calvin-hobbes-01.jpeg
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/./figures/calvin-hobbes-01.jpeg
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/./figures/calvin-hobbes-01.jpeg
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/./figures/calvin-hobbes-01.jpeg
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/./figures/calvin-hobbes-01.jpeg
-OUTPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.nav
-OUTPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.toc
-OUTPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.snm
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.aux
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.out
-INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics for Data Science/slides/main.out
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/./figures/calvin-hobbes-01.jpeg
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/./figures/calvin-hobbes-01.jpeg
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/./figures/calvin-hobbes-01.jpeg
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/./figures/calvin-hobbes-01.jpeg
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/./figures/calvin-hobbes-01.jpeg
+OUTPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.nav
+OUTPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.toc
+OUTPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.snm
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.aux
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.out
+INPUT /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.out
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
