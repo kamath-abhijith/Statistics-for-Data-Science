@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.4)  27 DEC 2023 13:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.4)  2 JAN 2024 09:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -840,30 +840,55 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/2-tutorial.tex [2
 
-]
-<../data/image-1.jpg, id=35, 616.704pt x 462.528pt>
-File: ../data/image-1.jpg Graphic file (type jpg)
-<use ../data/image-1.jpg>
-Package pdftex.def Info: ../data/image-1.jpg  used on input line 27.
-(pdftex.def)             Requested size: 180.67499pt x 135.5059pt.
-<../data/image-2.jpg, id=36, 616.704pt x 462.528pt>
-File: ../data/image-2.jpg Graphic file (type jpg)
-<use ../data/image-2.jpg>
-Package pdftex.def Info: ../data/image-2.jpg  used on input line 27.
-(pdftex.def)             Requested size: 180.67499pt x 135.5059pt.
- [3
+] [3
 
- </Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/../data/image-1.jpg> </Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/../data/image-2.jpg>] [4
+] [4
 
 ] [5
 
 ]
-<./figures/calvin-hobbes-01.jpeg, id=59, 249.93375pt x 215.30438pt>
+<../data/image-1.jpg, id=53, 616.704pt x 462.528pt>
+File: ../data/image-1.jpg Graphic file (type jpg)
+<use ../data/image-1.jpg>
+Package pdftex.def Info: ../data/image-1.jpg  used on input line 27.
+(pdftex.def)             Requested size: 180.67499pt x 135.5059pt.
+<../data/image-2.jpg, id=54, 616.704pt x 462.528pt>
+File: ../data/image-2.jpg Graphic file (type jpg)
+<use ../data/image-2.jpg>
+Package pdftex.def Info: ../data/image-2.jpg  used on input line 27.
+(pdftex.def)             Requested size: 180.67499pt x 135.5059pt.
+ [6
+
+ </Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/../data/image-1.jpg> </Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/../data/image-2.jpg>]
+<../data/hist-image-1.png, id=61, 462.72874pt x 463.7325pt>
+File: ../data/hist-image-1.png Graphic file (type png)
+<use ../data/hist-image-1.png>
+Package pdftex.def Info: ../data/hist-image-1.png  used on input line 27.
+(pdftex.def)             Requested size: 166.2212pt x 166.58269pt.
+<../data/hist-image-2.png, id=63, 459.7175pt x 462.72874pt>
+File: ../data/hist-image-2.png Graphic file (type png)
+<use ../data/hist-image-2.png>
+Package pdftex.def Info: ../data/hist-image-2.png  used on input line 27.
+(pdftex.def)             Requested size: 166.2212pt x 167.30946pt.
+ [7
+
+ </Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/../data/hist-image-1.png> </Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/../data/hist-image-2.png>] [8
+
+] [9
+
+] [10
+
+] [11
+
+] [12
+
+]
+<./figures/calvin-hobbes-01.jpeg, id=109, 249.93375pt x 215.30438pt>
 File: ./figures/calvin-hobbes-01.jpeg Graphic file (type jpg)
 <use ./figures/calvin-hobbes-01.jpeg>
 Package pdftex.def Info: ./figures/calvin-hobbes-01.jpeg  used on input line 67.
 (pdftex.def)             Requested size: 198.7425pt x 171.21216pt.
- [6
+ [13
 
  </Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/./figures/calvin-hobbes-01.jpeg>])
 \tf@nav=\write6
@@ -880,18 +905,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21546 strings out of 478994
- 399086 string characters out of 5858184
- 693600 words of memory out of 5000000
- 38545 multiletter control sequences out of 15000+600000
- 409458 words of font info for 48 fonts, out of 8000000 for 9000
+ 21616 strings out of 478994
+ 400276 string characters out of 5858184
+ 693585 words of memory out of 5000000
+ 38591 multiletter control sequences out of 15000+600000
+ 413362 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,14n,132p,485b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.pdf (6 pages, 1338419 bytes).
+ 131i,14n,132p,485b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
+Output written on /Users/abijithkamath/TECHNOLOGIE/Teaching/Statistics-for-Data-Science/slides/main.pdf (13 pages, 1514195 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 58 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 168 PDF objects out of 1000 (max. 8388607)
+ 124 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 68 words of extra memory for PDF output out of 10000 (max. 10000000)
 

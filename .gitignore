@@ -1,6 +1,10 @@
 ThinkStats2-master
+slides
 00494c16-19d0-46da-b28f-9e1878c87ed3.png
 6905f9b9-74a4-4fa1-af80-8911ba85a384.png
 560770a0-77c9-43be-8460-dc0ec180c611.png
 Statisitcs\ for\ Data\ Science\ -\ revised\ -\ 13-08-2023.docx.pdf
 *.DS_Store
+quiz
+notebooks/02\ Plotting\ Distributions.ipynb
+notebooks/03\ Histogram\ Equalisation.ipynb
